@@ -1,0 +1,17 @@
+{
+  "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('ogoodigital.sharepoint.com')/microsoft.graph.getByPath/lists('Yemek%20Men%C3%BCs%C3%BC')/items(fields(id,Title,Calorie,ItemStartDate,FoodCategory))",
+  "value": [
+    {
+      "id": "6",
+      "fields@odata.context": "https://graph.microsoft.com/v1.0/$metadata#sites('ogoodigital.sharepoint.com')/microsoft.graph.getByPath/lists('Yemek%20Men%C3%BCs%C3%BC')/items('6')/fields(id,Title,Calorie,ItemStartDate,FoodCategory)/$entity",
+      "fields": {
+        "@odata.etag": "\"80b042a3-4843-449b-b9c2-3681196c4e46,14\"",
+        "Title": "Arpa Şehriye Çorba",
+        "FoodCategory": "ÇORBA",
+        "Calorie": "160",
+        "ItemStartDate": "2018-02-14T21:00:00Z",
+        "id": "6"
+      }
+    }
+  ]
+}
